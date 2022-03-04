@@ -1,2 +1,2 @@
 #!/bin/bash
-{SCHOOL}
+offset=0 type=string test=SCHOOL
